@@ -1,5 +1,5 @@
 ## About me
-Hi there 👋, I'm kangJia! You can learn me more [here](https://ikangjia.cn)
+Hi there 👋, I'm kangJia! You can learn more about me [here](https://ikangjia.cn).
 
 <!--
 **kangjia1324/kangjia1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
